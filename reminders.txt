@@ -20,6 +20,11 @@ Health Reminders:
   - Hey human, remember to relax your jaw and release any tension there
   Mental Health Reminders:
   - Hey human, remember to laugh each day. It is good for your health
+  Wake-up Reminders:
+  - Hey human, Wake-up early and do yoga for good health🧘️
+  - Hey human, Wake-up early for better performance
+  Sun-time Reminders:
+  - Hey human, Do not forget to get sunlight every morning🌅️
 
 Relaxation Reminders:
   Break Reminders: 
@@ -27,6 +32,7 @@ Relaxation Reminders:
   - Hey human, remember to rest your eyes from time to time ok?
   - Hey human, are you being lazy on your couch right now? …ok good 🤖
   - Hey human, remember to take breaks. It's okay to step away and come back with a fresh mind!
+  - Hey human, Have some break and play your favourite game, it may be anything you like🏏️
   Hobby Reminders: 
   - Hey human, how about listening to your favorite song 🎙️🎵
   - Hey human, is the weather good today? If it is, let's go for a walk! If not - no worries 🤖
@@ -75,7 +81,10 @@ Motivational Reminders:
   - Hey human, remember to distribute your tasks evenly today so that you don't stress on things and get them done on time 📝
   - Hey human, remember to use Pomodoro technique to stay time efficient with your tasks
   - Hey human, utlize discipline over motivation. Motivation is finite, your will to get things done is ever-lasting!
-
+Social-service Reminders:
+  Helping-others Reminder;
+  - Hey human, help others it creates good impression in your heart❤️
+  - Hey human, help others and you will feel happy whole day😊️
 Programming Reminders:
   Debugging Reminders:
   - Hey human, taking 30 minutes nap😪 can help you with more than 6 hours of debugging.
